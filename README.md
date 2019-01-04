@@ -23,7 +23,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 > Bienaventurados los pesimistas por que ellos hacen backups
 
-*Anonimus homosapiens
+*Anonimus homosapiens*
 
 -------
 
@@ -33,7 +33,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
->Try Not, Do,  or do not… there is no try.
+> Try Not, Do,  or do not… there is no try.
 
 *Minch Yoda*
 
@@ -1406,9 +1406,9 @@ Segmentation fault [core dumped]
 
 ----------
 
-> *Un Repo para gobernarlos a todos, un CheckOut para encontrarlos, un Reset Hard para atraerlos a todos y atarlos en las Tinieblas.*
+> "Un Repo para gobernarlos a todos, un CheckOut para encontrarlos, un Reset Hard para atraerlos a todos y atarlos en las Tinieblas."
 
-**Daniel Rodríguez**
+*Daniel Rodríguez*
 
 -------
 
